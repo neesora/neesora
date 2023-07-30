@@ -2,7 +2,7 @@
 ## Hello there
 - Hi, I’m @hellxiwd
 - I’m interested in back-end development. ✨
-- Hopefully of the bright future~
+- Hopefully of the bright future, mneow~
 ---
 
 <!---
