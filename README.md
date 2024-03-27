@@ -1,9 +1,9 @@
 ---
 ## Hello there
 - Hi, I’m @hellxiwd
-- I’m interested in back-end development. ✨
+- I’m interested in back-end development and as music artist. 🎼✨
 - Learning python on a deeper level, soon planning begin learn back-end stack. (API, ORM and migrations, optimisations, Docker, advanced Git, Testing and debugging, DB)
-- Hopefully of the bright future, mneow~
+- 🐱mneow~
 ---
 
 <!---
