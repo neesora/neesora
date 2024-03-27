@@ -1,7 +1,7 @@
 ---
 ## Hello there
 - Hi, I’m @neesora
-- I’m interested in back-end development, creating music and art. 🎼💖
+- I’m interested in back-end development, art, creating music. 🎼💖
 - Learning python on a deeper level, soon planning begin learn back-end stack. (API, ORM and migrations, optimisations, Docker, advanced Git, Testing and debugging, DB)✨✨✨
 - 🐱mneow~
 ---
