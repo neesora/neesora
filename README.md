@@ -2,7 +2,7 @@
 ## Hello there
 - Hi, I’m @neesora
 - I’m interested in back-end development, art, creating music. 🎼💖
-- Learning back-end stack.✨✨✨
+- Learning data science.✨✨✨
 - 🐱mneow~
 ---
 
