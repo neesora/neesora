@@ -1,7 +1,7 @@
 ---
 ## Hello there
 - Hi, I’m @neesora
-- I’m interested in back-end development, art, creating music. 🎼💖
+- I’m interested in data science, art, creating music. 🎼💖
 - Learning data science.✨✨✨
 - 🐱mneow~
 ---
